@@ -1,0 +1,16 @@
+# Sensitive files
+cdp_api_key.json
+wallet_data.json
+
+# Node modules
+node_modules/
+
+# Operating system files
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
